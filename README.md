@@ -8,7 +8,7 @@
 
 ### 💻 Sobre mim  
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💡 Apaixonado por tecnologia  
+💡 **Apaixonado por tecnologia**  
 ⚡ Explorando o mundo da **programação e automação**  
 
 ---
